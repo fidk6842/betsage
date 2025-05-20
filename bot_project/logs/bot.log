@@ -1,0 +1,18 @@
+ 2025-05-02 05:33:46,043 - OddsBot - INFO - Starting bot...
+2025-05-02 05:34:11,705 - OddsBot - INFO - User 6542986482 started the bot
+2025-05-03 05:04:23,269 - OddsBot - INFO - Starting bot...
+2025-05-03 05:07:44,716 - OddsBot - INFO - User 6542986482 started the bot
+2025-05-03 05:15:06,850 - OddsBot - INFO - Starting bot...
+2025-05-03 05:15:12,689 - OddsBot - INFO - User 6542986482 started the bot
+2025-05-03 05:34:25,021 - OddsBot - INFO - Starting bot...
+2025-05-03 05:34:30,449 - OddsBot - INFO - User 6542986482 started the bot
+2025-05-03 05:34:36,625 - OddsBot - INFO - Fetched 19 matches for soccer_epl
+2025-05-03 05:34:36,628 - OddsBot - INFO - Preprocessed 19 valid matches
+2025-05-03 05:41:36,450 - OddsBot - INFO - Starting bot...
+2025-05-03 05:41:45,679 - OddsBot - INFO - Fetched 19 matches for soccer_epl
+2025-05-03 05:41:45,683 - OddsBot - INFO - Preprocessed 19 valid matches
+2025-05-03 05:41:45,715 - OddsBot - ERROR - Algorithm error: local variable 'keyboard' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\Praise\Desktop\bot_project\app\main.py", line 654, in handle_algorithm_selection
+    reply_markup=InlineKeyboardMarkup(keyboard)
+UnboundLocalError: local variable 'keyboard' referenced before assignment
